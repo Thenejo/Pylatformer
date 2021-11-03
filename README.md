@@ -7,6 +7,6 @@ Camera System
 
 Rotated Rendering in Entitys
 
-Costumized Audio System 
+Customized Audio System 
 
 
